@@ -2,6 +2,6 @@
    "_comment":"Json file for Device Location based on Android",
    "provider":"gps",
    "reporting_frequency":"10",
-   "recording_frequency":"10",
+   "recording_frequency":"1000",
   
 }
