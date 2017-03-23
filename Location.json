@@ -2,7 +2,7 @@
 [
    {
    "_comment":"Json file for Device Location based on Android",
-   "provider":"GPS_PROVIDER",
+   "provider":"PRIORITY_HIGH_ACCURACY",
    "reporting_frequency":"10",
    "recording_frequency":"7000"
   
